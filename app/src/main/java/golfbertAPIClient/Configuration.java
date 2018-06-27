@@ -29,9 +29,9 @@ import com.development.cbessee.golfcoursecatalog.R;
 
 @javax.annotation.Generated(value = "class io.swagger.codegen.languages.JavaClientCodegen", date = "2017-04-16T22:14:27.256-07:00")
 public class Configuration {
-    final static String ACCESS_KEY = "AKIAIJZCPDQZO4RYSYIA";
-    final static String KEY_SECRET = "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";
-    final static String API_KEY = "bwmTqxUPfFaMvKQ0rtwRi7Kv0CzCJ9zB12rknFiw";
+    final static String ACCESS_KEY = "";
+    final static String KEY_SECRET = "";
+    final static String API_KEY = "";
 
     private static ApiClient GolfbertApiClient = initApiClient();
 
