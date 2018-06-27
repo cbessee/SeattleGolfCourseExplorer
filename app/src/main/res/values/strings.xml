@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Golf Course Catalog</string>
+    <string name="mapbox_app_token">pk.eyJ1IjoiY2Jlc3NlZTUyIiwiYSI6ImNqaWx1cnhhdTAwd20za2xmaTJoY2J3ZzkifQ.TUB1J4JyJYt-TmKnrJdijA</string>
+    <string name="golfbert_token">bwmTqxUPfFaMvKQ0rtwRi7Kv0CzCJ9zB12rknFiw</string>
+    <string name="golfbert_key">AKIAIJZCPDQZO4RYSYIA</string>
+    <string name="golfbert_secret">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</string>
+</resources>
